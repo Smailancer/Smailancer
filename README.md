@@ -12,6 +12,7 @@ I code using Ruby On Rails.
 Im intrested in : 
 - User Experience
 - Data Science
+- System design
 - Block Chain  
 
 
