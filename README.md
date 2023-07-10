@@ -1,9 +1,6 @@
 ### Hi there 👋 its Smail
 
-
 I love labeling randomness, Mine data from it,  Recycle it, and use it to build tools and systems that solves real common problems .
-
-Ive struggled for 9 years to learn how to code and still looking for my first opportunity to apply what I've learned .
 
 I enjoy reading NonFiction books, writing my thougts, Trying my best to be more productive and Comunicating with difrent strange people. 
 
